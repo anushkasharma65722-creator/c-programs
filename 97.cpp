@@ -6,10 +6,10 @@ class Number{
     void check(){
         if(num%2==0)
         {
-            cout<<"EVEN";
+            cout<<"EVEN NUM";
         }
         else{
-            cout<<"ODD";
+            cout<<"ODD NUM";
         }
     }
 };
