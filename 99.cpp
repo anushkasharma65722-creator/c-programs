@@ -1,3 +1,4 @@
+// function for greatest of three
 #include<iostream>
 using namespace std;
 class Greatest {
