@@ -1,3 +1,4 @@
+// class for adding two numbers
 #include<iostream>
 using namespace std;
 class Demo{
